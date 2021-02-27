@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "id": "6B912993-E863-4AE2-3B29-08D8D8F81532",
+            "url": "assets/Files/20128467products.pdf",
+            "name": "products.pdf",
+            "type": "pdf",
+            "size": 8,
+            "createdAt": "2021-02-24"
+        },
+        {
+            "id": "B2FBB815-4491-4E65-3B2A-08D8D8F81532",
+            "url": "assets/Files/201212230profilepic.jpg",
+            "name": "profilepic.jpg",
+            "type": "jpg",
+            "size": 133,
+            "createdAt": "2021-02-24"
+        }
+    ]
+}

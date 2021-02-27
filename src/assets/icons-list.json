@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "type": "xlsx",
+      "icon": "fa fa-5x fa-file-excel-o",
+      "default": false
+    },
+    {
+      "type": "pdf",
+      "icon": "fa fa-5x fa-file-pdf-o",
+      "default": false
+    },
+    {
+      "type": "docx",
+      "icon": "fa fa-5x fa-file-word-o",
+      "default": false
+    },
+    {
+      "type": "image",
+      "icon": "fa fa-5x fa-image",
+      "default": true
+    }
+  ]
+}

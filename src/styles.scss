@@ -1,1 +1,127 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+.content {
+    margin: 3rem;
+}
+
+.m-1 {
+    margin: 1rem;
+}
+
+.m-t-1 {
+    margin-top: 1rem;
+}
+
+.m-b-1 {
+    margin-bottom: 1rem;
+}
+
+.m-l-1 {
+    margin-left: 1rem;
+}
+
+.m-r-1 {
+    margin-right: 1rem;
+}
+
+.m-y-1 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.m-x-1 {
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.d-none {
+    display: none;
+}
+
+.buttons {
+    display: flex;
+}
+
+.custom-file-upload {
+  font-size: 16px;
+  width: 50%;
+  display: block;
+  text-align: center;
+  background-color: #007bff;
+  color: #fff;
+  margin-bottom: 2rem;
+  padding: 20px 0px;
+  cursor: pointer;
+}
+
+.remove-files {
+  font-size: 16px;
+  border: none;
+  width: 50%;
+  background-color: #d93333;
+  color: #fff;
+  display: block;
+  margin: 0rem 0rem 2rem 3rem;
+  padding: 20px 0px;
+  cursor: pointer;
+}
+
+.save-files {
+  font-size: 16px;
+  border: 1px solid #808080;
+  background-color: #fff;
+  color: #808080;
+  width: 50%;
+  display: block;
+  padding: 20px 0px;
+  margin-top: 2rem;
+  cursor: pointer;
+}
+
+.save-files:hover {
+  background-color: #007bff;
+  color: #fff;
+  border: 1px solid #007bff;
+}
+
+.images-to-upload img,
+.images-to-upload i {
+  height: 5rem;
+  width: auto;
+  margin: 1rem .5rem 0 .5rem;
+  // border: 3px solid #a8a9ae;
+}
+
+.images-to-upload-span {
+    display: block;
+    margin-left: .5rem;
+}
+
+.img-display{
+    display: flex;
+}
+
+.image-upload-errors {
+    margin-top: 1rem;
+}
+
+.image-upload-errors span,
+.text-danger {
+    color: red;
+}
+
+.m-t-5 {
+    margin-top: 5rem;
+}
